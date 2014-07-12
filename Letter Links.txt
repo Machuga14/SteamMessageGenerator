@@ -1,0 +1,72 @@
+
+* http://steamcommunity.com/market/listings/753/258890-%3Aasterisk%3A		.06 ; .03				OWNED
+& http://steamcommunity.com/market/listings/753/258890-%3Aampersand%3A		.05 ; .03				OWNED
+? http://steamcommunity.com/market/listings/753/238630-%3Aquestion%3A		.87 ; .37				
+? http://steamcommunity.com/market/listings/753/214360-%3Atwbuh%3A			.04 ; NILL				OWNED
+$ http://steamcommunity.com/market/listings/753/93200-%3Asilverdollar%3A	.30 ; .23				
+
+0 http://steamcommunity.com/market/listings/753/264730-%3Adeadly0%3A		.08 ; .06				OWNED
+
+
+2 http://steamcommunity.com/market/listings/753/218230-%3APS2%3A			.09 ; .08				OWNED
+
+3 http://steamcommunity.com/market/listings/753/264730-%3Adeadly3%3A		.07 ; .04				OWNED
+3 http://steamcommunity.com/market/listings/753/226720-%3Alp33%3A			.85 ; .48
+
+4 http://steamcommunity.com/market/listings/753/226320-%3AFF%3A				.03 ; NILL				OWNED
+4 http://steamcommunity.com/market/listings/753/206420-%3Asr4%3A			.10 ; .03				OWNED
+
+A http://steamcommunity.com/market/listings/753/264120-%3Aalkat%3A			1.38 ; .21				
+A http://steamcommunity.com/market/listings/753/206500-%3Aairmech%3A		.10 ; .05				OWNED
+a http://steamcommunity.com/market/listings/753/206500-%3Aalphahero%3A		1.20 ; .77				
+A http://steamcommunity.com/market/listings/753/258890-%3Aabc%3A			.09 ; .04				OWNED
+A http://steamcommunity.com/market/listings/753/223630-%3Aicon%3A			.09 ; .04				OWNED
+A http://steamcommunity.com/market/listings/753/730-%3Acsgoa%3A				.03 ; NILL				OWNED
+
+B http://steamcommunity.com/market/listings/753/730-%3Acsgob%3A				.03 ; NILL				OWNED
+b http://steamcommunity.com/market/listings/753/206500-%3Abetalord%3A		1.07 ; .42				
+
+C http://steamcommunity.com/market/listings/753/248970-%3Avectorcoin%3A		3.10 ; .12
+
+D http://steamcommunity.com/market/listings/753/264120-%3Adarrell%3A		.28 ; .13				
+D http://steamcommunity.com/market/listings/753/39800-%3Adred%3A			.11 ; .07				OWNED
+D http://steamcommunity.com/market/listings/753/264730-%3Adeadlyd%3A		.09 ; .03				OWNED
+
+E http://steamcommunity.com/market/listings/753/39800-%3Aered%3A			.83 ; .52				OWNED
+E http://steamcommunity.com/market/listings/753/231310-%3Ammep_e%3A			4.68 ; 1.05
+
+G http://steamcommunity.com/market/listings/753/264120-%3Agallara%3A		.57 ; .07
+G http://steamcommunity.com/market/listings/753/264120-%3Aghostracing%3A	.20 ; .03				OWNED
+
+H http://steamcommunity.com/market/listings/753/278930-%3Ahtpts%3A			1.99 ; 1.21
+
+I http://steamcommunity.com/market/listings/753/269110-%3AI%3A				10.00 ; .86
+
+K http://steamcommunity.com/market/listings/753/206500-%3Akudos%3A			1.38 ; .89
+
+L http://steamcommunity.com/market/listings/753/226720-%3Alp3l%3A			3.93 ; .84
+
+M http://steamcommunity.com/market/listings/753/238320-%3Amurkoff%3A		.11 ; .05				OWNED
+M http://steamcommunity.com/market/listings/753/251850-%3Amrlogo%3A			.03 ; NILL				OWNED
+M http://steamcommunity.com/market/listings/753/231310-%3Ammep_m%3A			2.30; .85
+
+O http://steamcommunity.com/market/listings/753/71000-%3Astealthcoil%3A		.14 ; .03				OWNED
+O http://steamcommunity.com/market/listings/753/620-%3Ap2blue%3A			.06 ; .04				OWNED
+
+P http://steamcommunity.com/market/listings/753/278930-%3Apwrup%3A 			2.71 ; .77
+P http://steamcommunity.com/market/listings/753/258010-%3Aplex%3A			.03 ; NILL				OWNED
+P http://steamcommunity.com/market/listings/753/231310-%3Ammep_p%3A			.23 ; .13
+P http://steamcommunity.com/market/listings/753/226720-%3Alp3p%3A			.16 ; .08
+
+R http://steamcommunity.com/market/listings/753/301540-%3Ardlogo%3A    		2.16 ; .60
+R http://steamcommunity.com/market/listings/753/221680-%3A2014pick%3A		.55 ; .32				OWNED
+R http://steamcommunity.com/market/listings/753/264120-%3Arumble%3A			.99 ; .20	
+R http://steamcommunity.com/market/listings/753/39800-%3Arred%3A			.58 ; .34
+
+S http://steamcommunity.com/market/listings/753/11200-%3Asgsurvivor%3A		.39 ; .07				OWNED
+S http://steamcommunity.com/market/listings/753/234160-%3ASRank%3A			.41 ; .25
+
+T http://steamcommunity.com/market/listings/753/269110-%3AT%3A				2.30 ; .16
+T http://steamcommunity.com/market/listings/753/278930-%3Atimeup%3A			2.23 ; .78
+
+Z http://steamcommunity.com/market/listings/753/229580-%3Asnooze%3A			.77 ; .41

@@ -132,6 +132,7 @@ namespace SteamMessageGenerator
             this.SetForCreatingNew(true);
             this.ModifyingLetter = new AssociatedLetter(' ',this.model);
             this.tbxCharacter.Select();
+            this.RefreshSecondaryListView();
         }
 
         private void btnModify_Click(object sender, EventArgs e)

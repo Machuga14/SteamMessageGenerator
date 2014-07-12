@@ -55,5 +55,32 @@ namespace SteamMessageGenerator
         {
             this.rtbxGeneratedMessage.Text = this.model.messageConverter.ConvertMessage(this.rtbxMessage.Text);
         }
+
+        private void tbxSpacesBetweenWords_TextChanged(object sender, EventArgs e)
+        {
+            int spacesBetweenWords = 3;
+
+            if (!Int32.TryParse(this.tbxSpacesBetweenWords.Text, out spacesBetweenWords))
+            {
+                //This means that what was entered was not a valid integer
+                spacesBetweenWords = 3;
+            }
+
+            if (spacesBetweenWords > 30)
+            {
+                spacesBetweenWords = 30;
+                this.tbxSpacesBetweenWords.Text = spacesBetweenWords.ToString();
+            }
+
+            string spaceString = String.Empty;
+
+            for (int i = 0; i < spacesBetweenWords; i++)
+            {
+                spaceString += " ";
+            }
+
+            this.model.messageConverter.spacesBetweenWords = spaceString;
+            this.lblSpacesBetweenWords.Text = "Spaces to add between words: " + spacesBetweenWords;
+        }
     }
 }

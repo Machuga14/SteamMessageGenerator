@@ -16,10 +16,13 @@ namespace SteamMessageGenerator
         public bool RandomCharacterSwap { get; set; }
         public bool LastCharacterSwap { get; set; }
 
+        public string spacesBetweenWords { get; set; }
+
         public MessageConverter(Model model)
         {
             this.model = model;
             this.AssociatedLetters = new List<AssociatedLetter>();
+            this.spacesBetweenWords = "   ";
             this.Load();
         }
 
@@ -40,6 +43,9 @@ namespace SteamMessageGenerator
         private string grabSubstitution(char c)
         {
             string retString = c.ToString();
+
+            if (c == ' ')
+                retString += this.spacesBetweenWords;
 
             for (int i = 0; i < this.AssociatedLetters.Count(); i++)
             {

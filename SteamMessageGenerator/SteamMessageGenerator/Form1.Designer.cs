@@ -36,6 +36,8 @@
             this.rbtnRandomCharacter = new System.Windows.Forms.RadioButton();
             this.rbtnLastCharacter = new System.Windows.Forms.RadioButton();
             this.btnSettings = new System.Windows.Forms.Button();
+            this.tbxSpacesBetweenWords = new System.Windows.Forms.TextBox();
+            this.lblSpacesBetweenWords = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // rtbxMessage
@@ -122,11 +124,30 @@
             this.btnSettings.UseVisualStyleBackColor = true;
             this.btnSettings.Click += new System.EventHandler(this.btnSettings_Click);
             // 
+            // tbxSpacesBetweenWords
+            // 
+            this.tbxSpacesBetweenWords.Location = new System.Drawing.Point(532, 125);
+            this.tbxSpacesBetweenWords.Name = "tbxSpacesBetweenWords";
+            this.tbxSpacesBetweenWords.Size = new System.Drawing.Size(100, 20);
+            this.tbxSpacesBetweenWords.TabIndex = 8;
+            this.tbxSpacesBetweenWords.TextChanged += new System.EventHandler(this.tbxSpacesBetweenWords_TextChanged);
+            // 
+            // lblSpacesBetweenWords
+            // 
+            this.lblSpacesBetweenWords.AutoSize = true;
+            this.lblSpacesBetweenWords.Location = new System.Drawing.Point(532, 106);
+            this.lblSpacesBetweenWords.Name = "lblSpacesBetweenWords";
+            this.lblSpacesBetweenWords.Size = new System.Drawing.Size(157, 13);
+            this.lblSpacesBetweenWords.TabIndex = 9;
+            this.lblSpacesBetweenWords.Text = "Spaces to add between words: ";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(821, 587);
+            this.Controls.Add(this.lblSpacesBetweenWords);
+            this.Controls.Add(this.tbxSpacesBetweenWords);
             this.Controls.Add(this.btnSettings);
             this.Controls.Add(this.rbtnLastCharacter);
             this.Controls.Add(this.rbtnRandomCharacter);
@@ -152,6 +173,8 @@
         private System.Windows.Forms.RadioButton rbtnRandomCharacter;
         private System.Windows.Forms.RadioButton rbtnLastCharacter;
         private System.Windows.Forms.Button btnSettings;
+        private System.Windows.Forms.TextBox tbxSpacesBetweenWords;
+        private System.Windows.Forms.Label lblSpacesBetweenWords;
     }
 }
 
