@@ -26,7 +26,7 @@ A http://steamcommunity.com/market/listings/753/730-%3Acsgoa%3A				.03 ; NILL			
 B http://steamcommunity.com/market/listings/753/730-%3Acsgob%3A				.03 ; NILL				OWNED
 b http://steamcommunity.com/market/listings/753/206500-%3Abetalord%3A		1.07 ; .42				
 
-C http://steamcommunity.com/market/listings/753/248970-%3Avectorcoin%3A		3.10 ; .12
+C http://steamcommunity.com/market/listings/753/248970-%3Avectorcoin%3A		3.10 ; .12				OWNED
 
 D http://steamcommunity.com/market/listings/753/264120-%3Adarrell%3A		.28 ; .13				
 D http://steamcommunity.com/market/listings/753/39800-%3Adred%3A			.11 ; .07				OWNED
@@ -34,6 +34,9 @@ D http://steamcommunity.com/market/listings/753/264730-%3Adeadlyd%3A		.09 ; .03	
 
 E http://steamcommunity.com/market/listings/753/39800-%3Aered%3A			.83 ; .52				OWNED
 E http://steamcommunity.com/market/listings/753/231310-%3Ammep_e%3A			4.68 ; 1.05
+
+F http://steamcommunity.com/market/listings/753/244730-%3Afraud%3A?filter=divekick%20emoticon					
+F http://steamcommunity.com/market/listings/753/208600-%3Aai_fuel%3A#							OWNED
 
 G http://steamcommunity.com/market/listings/753/264120-%3Agallara%3A		.57 ; .07
 G http://steamcommunity.com/market/listings/753/264120-%3Aghostracing%3A	.20 ; .03				OWNED
